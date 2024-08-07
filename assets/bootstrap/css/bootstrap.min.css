@@ -1514,7 +1514,7 @@ p {
     line-height: 1.4
 }
 
-@media (min-width: 768px) {
+@media (min-width: 668px) {
     .lead {
         font-size:21px
     }
